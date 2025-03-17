@@ -1,8 +1,8 @@
 <?php
 $host = "localhost"; 
-$user = "sandsl23_divinevoice_user"; 
-$pass = "s@nds1@b"; 
-$db = "sandsl23_divinevoice_magazine"; 
+$user = "dbusername"; 
+$pass = "dbpassword"; 
+$db = "databaseName"; 
 
 $conn = new mysqli($host, $user, $pass, $db);
 
