@@ -1,2 +1,2 @@
 # SearchInSelect2DropDown
-Select2 DropDown Search Form Database
+Select2 DropDown Search from Database
