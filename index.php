@@ -37,7 +37,7 @@
         },
         minimumInputLength: 2 // Start search after 2 characters
     });
-    
+    // for Default Value
     $('#myDropdown').val('680').trigger('change');
 });
 
